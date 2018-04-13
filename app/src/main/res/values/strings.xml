@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">DUMP Speakers</string>
+
+    <string name="value_any_section">Все секции</string>
+    <string name="value_any_city">Все города</string>
+    <string name="value_any_job">Все организации</string>
+
+    <string name="label_section">Секция</string>
+    <string name="label_city">Город</string>
+    <string name="label_job">Организация</string>
+    <string name="label_sort_by">По</string>
+
+    <string name="fmt_num_ratings" translatable="false">(%d)</string>
+    <string name="all_speakers">Все спикеры</string>
+    <string name="header_filters">Фильтр</string>
+    <string name="search">Поиск</string>
+
+    <string name="sort_by_rating">Сортировка по рейтингу</string>
+    <string name="sort_by_popularity">Сортировка по популярности</string>
+
+    <string name="sorted_by_rating">по рейтингу</string>
+    <string name="sorted_by_popularity">по популярности</string>
+
+    <string name="synchronize">Синхронизировать данные</string>
+    <string name="sign_out">Выход</string>
+    <string name="delete_all">Delete All</string>
+    <string name="divider_bullet">•</string>
+    <string name="apply">Применить</string>
+    <string name="cancel">Отмена</string>
+    <string name="message_no_results">Упс, ничего не нашлось по вашему запросу.. :(</string>
+    <string name="message_no_reviews">Отзывов пока нет</string>
+    <string name="hint_review">Оставьте свой отзыв о спикере</string>
+    <string name="submit">ОК</string>
+    <string name="filter_add_review">Добавить отзыв</string>
+
+    <string-array name="sections">
+        <item>@string/value_any_section</item>
+
+        <item>Fronttalks</item>
+        <item>Serverside</item>
+        <item>Mobile</item>
+        <item>Design</item>
+        <item>Devops</item>
+        <item>Management</item>
+        <item>Testing</item>
+        <item>Science</item>
+    </string-array>
+
+    <string-array name="cities">
+        <item>@string/value_any_city</item>
+
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Новосибирск</item>
+        <item>Екатеринбург</item>
+        <item>Нижний Новгород</item>
+        <item>Минск</item>
+        <item>Брюссель</item>
+        <item>Берлин</item>
+        <item>Рига</item>
+        <item>Осло</item>
+        <item>Красноярск</item>
+        <item>Челябинск</item>
+        <item>Иркутск</item>
+        <item>Пермь</item>
+        <item>Ростов-на-Дону</item>
+        <item>Краснодар</item>
+        <item>Липецк</item>
+    </string-array>
+
+    <string-array name="jobs">
+        <item>@string/value_any_job</item>
+
+        <item>JetBrains</item>
+        <item>Microsoft</item>
+        <item>СКБ Контур</item>
+        <item>Яндекс</item>
+        <item>ВКонтакте</item>
+        <item>Одноклассники</item>
+        <item>IT-People</item>
+        <item>Rambler&amp;Co</item>
+        <item>Badoo</item>
+        <item>Kaspersky Lab</item>
+        <item>Avito</item>
+        <item>NetCracker</item>
+        <item>Tinkoff</item>
+        <item>Сбербанк-Технологии</item>
+        <item>Сбербанк</item>
+        <item>Unusual Concepts</item>
+        <item>S Media Link</item>
+        <item>Лаборатория E9</item>
+        <item>Кнопка</item>
+        <item>JetStyle, Ridero</item>
+        <item>ScrumTrek</item>
+        <item>HTML Academy</item>
+        <item>Elonsoft</item>
+        <item>Evil Martians</item>
+        <item>Uploadcare</item>
+        <item>Альфа-Лаборатория</item>
+        <item>Targem Games</item>
+        <item>NetAngels</item>
+        <item>Мерката</item>
+        <item>1С-Битрикс</item>
+        <item>Evrone</item>
+        <item>Очень интересно</item>
+        <item>Webant</item>
+        <item>Byndyusoft</item>
+        <item>Дикий филин</item>
+        <item>WDI Design School</item>
+        <item>Tengo</item>
+        <item>Мосигра</item>
+    </string-array>
+
+    <string-array name="sort_by">
+        <item>@string/sort_by_rating</item>
+        <item>@string/sort_by_popularity</item>
+    </string-array>
+</resources>
